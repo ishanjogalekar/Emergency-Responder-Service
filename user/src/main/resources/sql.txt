@@ -1,0 +1,11 @@
+use eme_res;
+create table userdata(
+    id int NOT null primary key auto_increment,
+    r_name varchar(200) NOT null,
+    need varchar(100),
+    disaster varchar(100),
+    contact varchar(10) NOT null,
+    email varchar(200) NOT null,
+    city varchar(200),
+    district varchar(200),
+    state varchar(200) );

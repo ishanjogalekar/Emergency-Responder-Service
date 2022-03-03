@@ -1,0 +1,102 @@
+.top{
+    background-color: #660afa;
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: Bahnschrift;
+    border-radius: 2px;
+    font-size: 18px;
+    margin: 4px 2px;
+    align-items: center;
+    cursor: pointer;
+}
+.top:hover{
+    background: #ff8903;
+    color: black;
+}
+.side{
+    background-color: #660afa;
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: Bahnschrift;
+    border-radius: 2px;
+    font-size: 18px;
+    margin: 4px 4px;
+    align-items: center;
+    cursor: pointer;
+}
+.side:hover{
+    background: #ff8903;
+    color: black;
+}
+.center{
+    background-color: #660afa;
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: Bahnschrift;
+    border-radius: 2px;
+    font-size: 16px;
+    margin: 4px 6px;
+    align-items: center;
+    cursor: pointer;
+}
+.center:hover{
+    background: #ff8903;
+    color: black;
+}
+.logout{
+    background-color: #0a82fa;
+    border: none;
+
+    color: rgb(0, 0, 0);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: Arial;
+    border-radius: 2px;
+    font-size: 16px;
+    margin: 4px 6px;
+    align-items: center;
+    cursor: pointer;
+}
+.logout:hover{
+    background: #ff0303;
+    color: black;
+}
+.eme{
+    background-color: #7f0000;
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: Bahnschrift;
+    border-radius: 4px;
+    font-size: 16px;
+    margin: 4px 20px;
+    align-items: center;
+    cursor: pointer;
+}
+.eme:hover{
+    background: #07ffef;
+    color: black;
+}
+.bottom_text{
+    font-family: Bahnschrift;
+    font-size: 17px;
+    color: red;
+
+}
