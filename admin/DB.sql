@@ -30,12 +30,3 @@ VALUES ('Admin',
 '$2a$12$7xdCO5Nh6r.Ko8C4S8wSLeP/G7K6KVu/IxSIxWwFkUGI0bSaTFkvS',
 'ROLE_ADMIN', 1);
 
-INSERT INTO `admindata` (`username`,`password`,`role`,`enabled`)
-VALUES ('Sid',
-'$2a$12$8WnivfVVy6Ei2HJYI1frr.zD1vjPjFTqPPxPs2F33i3m2Ow3ye6ni',
-'ROLE_ADMIN', 1);
-
-INSERT INTO `admindata` (`username`,`password`,`role`,`enabled`)
-VALUES ('Abnisha',
-'$2a$12$k.gX9M7ND4faXQLcjkGtcuT9EeDYj5UVAefOeYe7GL6uFbPnqEvpy',
-'ROLE_ADMIN', 1);
