@@ -55,6 +55,12 @@
 <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white"/>
 </p>
 <hr>
-<br>
 
 [**Chat-API Live**](https://dashboard.tawk.to/login#/chat)
+<br>
+
+---
+
+**Testing :**
+1. *Security testing* is done using OWASP ZAP tool. [Security Report](https://github.com/ishanjogalekar/Emergency-Responder-Service/blob/main/Reports/ZAP%20Security%20Report.pdf) <br>
+2. *Functional and components testing* , HTML pages testing is done using Lighthouse tool. [Components Report](https://github.com/ishanjogalekar/Emergency-Responder-Service/blob/main/Reports/Lighthouse%20Report%20Document.pdf) 
