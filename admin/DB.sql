@@ -21,11 +21,6 @@ CREATE TABLE `admindata` (
 );
 
 INSERT INTO `admindata` (`username`,`password`,`role`,`enabled`)
-VALUES ('Ishan',
-'$2a$12$LGkAnNH7u2rbbkpLTIxMS.kP8xnrcOLSqAYUSPu1OqpadzWvYUb3W',
-'ROLE_ADMIN', 1);
-
-INSERT INTO `admindata` (`username`,`password`,`role`,`enabled`)
 VALUES ('Admin',
 '$2a$12$7xdCO5Nh6r.Ko8C4S8wSLeP/G7K6KVu/IxSIxWwFkUGI0bSaTFkvS',
 'ROLE_ADMIN', 1);
